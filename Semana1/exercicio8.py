@@ -13,3 +13,4 @@ else:
     tem = float(tem)
     jur = juros(taxa=tax, capital=cap, tempo=tem)
 print(f'O valor dos juros é {jur}')
+# pg 48
